@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+Learning basic setup of strapi CMS application for blog posts
